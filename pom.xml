@@ -49,8 +49,8 @@
 			<version>2.7.0</version>
 		</dependency>
 		
-		<dependency>
-		    <groupId>com.fasterxml.jackson.dataformat</groupId>
+		<dependency> 
+		    <groupId>com.fasterxml.jackson.dataformat</groupId>                   for adding content negotiation // xml,application/json
 		    <artifactId>jackson-dataformat-xml</artifactId>
 		</dependency>  -->
 
